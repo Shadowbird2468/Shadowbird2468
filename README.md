@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shadowbird2468
-- 👀 I’m interested in linux and free and open-software.
+- 👀 I’m interested in linux and free and open-source software.
 - 🌱 I’m currently learning arch linux as my new main distro. I'm also practising shell-scripting and using git.
 - 💞️ I’m looking to collaborate on Ubuntu Touch.
 - 📫 How to reach me ...
